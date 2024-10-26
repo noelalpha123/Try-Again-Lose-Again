@@ -48,7 +48,7 @@ For Software:
 
 ## Team Contributions
 - [Noel Geevarghese Joseph]: [Gesture Recognition and User Interface]
-- [Name 2]: [Game Logic and Sound Management]
+- [Salvin Saju]: [Game Logic and Sound Management]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
