@@ -1,36 +1,35 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Try Again Lose Again] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Byte Bandits]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Noel Geevarghese Joseph] - [Albertian Institute of Science and Technology]
+- Member 2: [Salvin Saju] - [Albertian Institute of Science and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[This project is an interactive "Rock, Paper, Scissors" game that uses hand gestures detected through a webcam. It employs OpenCV for video capture, MediaPipe for hand tracking, and Pygame for sound effects. Players compete against the computer, with the game tracking scores and providing visual feedback, including a loading animation and notifications for wins and losses. The interface features a background image, highlights for detected gestures, and prompts for starting and resetting the game.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[There is a delay of 5-10 secs to run the game initially] 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[It can be solved by reducing the resolution]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used : python]
+- [Frameworks used : Nil]
+- [Libraries used : OpenCV,MediaPipe,NumPy,Pygame]
+- [Tools used : VScode,Chat gpt]
 
 For Hardware:
-- [List main components]
+- [List main components : Web cam]
 - [List specifications]
 - [List tools required]
 
@@ -46,17 +45,20 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![starting interface]
+![ss1](https://github.com/user-attachments/assets/82906ce7-22c5-43eb-9964-609642ed3373)
+*This screenshot provides details about the starting menu*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Loading Screen]
+![ss2](https://github.com/user-attachments/assets/7dd5d740-3186-468d-839c-ff3773704a58)
+*This screenshot shows the loading progress of the game*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Gameplay]
+(![ss3](https://github.com/user-attachments/assets/5a1333c2-878e-4f51-8343-2ed29eb3035d)
+*This screenshot shows the gameplay*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+(Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
 For Hardware:
@@ -80,16 +82,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1spjih5dJPJil0g1p15vTp57UUWn2Ovrh/view]
+*This video shows whole gameplay of the game*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Noel Geevarghese Joseph]: [Gesture Recognition and User Interface]
+- [Name 2]: [Game Logic and Sound Management]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
