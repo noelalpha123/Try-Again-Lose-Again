@@ -28,22 +28,6 @@ For Software:
 - [Libraries used : OpenCV,MediaPipe,NumPy,Pygame]
 - [Tools used : VScode,Chat gpt]
 
-For Hardware:
-- [List main components : Web cam]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![starting interface]
 ![ss1](https://github.com/user-attachments/assets/82906ce7-22c5-43eb-9964-609642ed3373)
@@ -57,36 +41,10 @@ For Software:
 (![ss3](https://github.com/user-attachments/assets/5a1333c2-878e-4f51-8343-2ed29eb3035d)
 *This screenshot shows the gameplay*
 
-# Diagrams
-(Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1spjih5dJPJil0g1p15vTp57UUWn2Ovrh/view]
 *This video shows whole gameplay of the game*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Noel Geevarghese Joseph]: [Gesture Recognition and User Interface]
